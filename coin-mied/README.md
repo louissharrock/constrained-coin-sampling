@@ -22,8 +22,7 @@ The results for Coin MIED in the paper can be reproduced as follows.
 - In `results/fairness_bnn`, [`fairness_bnn_script`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-mied/results/fairness_bnn/fairness_bnn_script.sh) contains an example
 script used to generate results for Coin MIED and MIED, for a particular
 value of the constraint parameter t. The complete set of results for Coin MIED and MIED can be reproduced by
-running `fairness_bnn_script` for all values of t in the paper. 
-
+running `fairness_bnn_script` for all values of t in the paper. The dataset for this experiment can be downloaded from the [UCI Machine Learning Repositorry](https://archive.ics.uci.edu/dataset/2/adult). 
 
 
 

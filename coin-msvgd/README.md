@@ -39,7 +39,7 @@ reproduced as follows.
 
 * The 2D selection inference experiment is contained in [`selection_inference_2d.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_2d.py)
 * The selection inference coverage experiments is contained in [`selection_inference_coverage.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_coverage.py)
-* The selection inference HIV experiment is contained in [`selection_inference_hiv.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_hiv.py)
+* The selection inference HIV experiment is contained in [`selection_inference_hiv.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_hiv.py). The dataset for this experiment can be downloaded from the [Stanford HIV Drug Resistance Database](http://hivdb.stanford.edu/pages/published_analysis/genophenoPNAS2006/DATA/NRTI_DATA.txt).
 
 ## Acknowledgements
 

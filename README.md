@@ -34,9 +34,3 @@ implementations of MSVGD and MIED. We gratefully acknowledge the authors
 of the following papers for their open source code:
 * J. Shi, C. Liu and L. Mackey. Sampling with Mirrored Stein Operators. ICLR, 2022. [[Paper](https://arxiv.org/abs/2106.12506)] | [[Code](https://github.com/thjashin/mirror-stein-samplers)].
 * L. Li, Q. Liu, A. Korba, M. Yurochkin and J. Solomon. Sampling with Mollified Interaction Energy Descent. ICLR, 2023. [[Paper](https://arxiv.org/abs/2210.13400)] | [[Code](https://github.com/lingxiaoli94/MIED)].
-
-
-We did not contribute any of the datasets used in our experiments. Please get in touch if 
-there are any conflicts of interest or other issues with hosting these datasets here.
-* The HIV dataset is from the [Stanford HIV Drug Resistance Database](http://hivdb.stanford.edu/pages/published_analysis/genophenoPNAS2006/DATA/NRTI_DATA.txt).
-* The Adult dataset is from the [UCI Machine Learning Repositorry](https://archive.ics.uci.edu/dataset/2/adult). 
