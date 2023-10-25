@@ -9,8 +9,8 @@
 ## Description
 
 This repository contains code to reproduce the results of the numerical experiments contained in [Sharrock et al. (2023)](https://arxiv.org/abs/2305.14943). The code for each of two algorithms can be found in separate directories: 
-* The code for Coin MSVGD is contained in [``coin-msvgd``](https://github.com/louissharrock/mirrored-coin-sampling/tree/main/coin-msvgd).
-* The code for Coin MIED is contained in [``coin-mied``](https://github.com/louissharrock/mirrored-coin-sampling/tree/main/coin-mied).
+* The code for Coin MSVGD is contained in [``coin-msvgd``](https://github.com/louissharrock/constrained-coin-sampling/tree/main/coin-msvgd).
+* The code for Coin MIED is contained in [``coin-mied``](https://github.com/louissharrock/constrained-coin-sampling/tree/main/coin-mied).
 
 ## Citation
 

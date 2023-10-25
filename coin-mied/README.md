@@ -14,12 +14,12 @@ The results for Coin MIED in the paper can be reproduced as follows.
 
 #### Uniform Target
 
-- In `results/uniform`, run [`uniform_script.py`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-mied/results/uniform/uniform_script.py) to generate all of the results in the paper.
+- In `results/uniform`, run [`uniform_script.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-mied/results/uniform/uniform_script.py) to generate all of the results in the paper.
 
 
 #### Fairness Bayesian Neural Network
 
-- In `results/fairness_bnn`, [`fairness_bnn_script`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-mied/results/fairness_bnn/fairness_bnn_script.sh) contains an example
+- In `results/fairness_bnn`, [`fairness_bnn_script`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-mied/results/fairness_bnn/fairness_bnn_script.sh) contains an example
 script used to generate results for Coin MIED and MIED, for a particular
 value of the constraint parameter t. The complete set of results for Coin MIED and MIED can be reproduced by
 running `fairness_bnn_script` for all values of t in the paper. 

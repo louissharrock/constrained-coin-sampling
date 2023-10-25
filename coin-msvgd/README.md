@@ -32,14 +32,14 @@ reproduced as follows.
 
 #### Simplex Targets
 
-* The sparse Dirichlet posterior experiment is contained in [`dirichlet.py`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-msvgd/dirichlet.py)
-* The quadratic simplex experiment is contained in [`quadratic.py`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-msvgd/quadratic.py)
+* The sparse Dirichlet posterior experiment is contained in [`dirichlet.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/dirichlet.py)
+* The quadratic simplex experiment is contained in [`quadratic.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/quadratic.py)
 
 #### Post-Selection Inference
 
-* The 2D selection inference experiment is contained in [`selection_inference_2d.py`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-msvgd/selection_inference_2d.py)
-* The selection inference coverage experiments is contained in [`selection_inference_coverage.py`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-msvgd/selection_inference_coverage.py)
-* The selection inference HIV experiment is contained in [`selection_inference_hiv.py`](https://github.com/louissharrock/mirrored-coin-sampling/blob/main/coin-msvgd/selection_inference_hiv.py)
+* The 2D selection inference experiment is contained in [`selection_inference_2d.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_2d.py)
+* The selection inference coverage experiments is contained in [`selection_inference_coverage.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_coverage.py)
+* The selection inference HIV experiment is contained in [`selection_inference_hiv.py`](https://github.com/louissharrock/constrained-coin-sampling/blob/main/coin-msvgd/selection_inference_hiv.py)
 
 ## Acknowledgements
 
