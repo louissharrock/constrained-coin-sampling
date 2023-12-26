@@ -1,4 +1,4 @@
-## <p align="center">Learning Rate Free Bayesian Inference in Constrained Domains<br><br>NeurIPS 2023<br></p>
+## <p align="center">Learning Rate Free Sampling in Constrained Domains<br><br>NeurIPS 2023<br></p>
 
 <div align="center">
   <a href="https://louissharrock.github.io/" target="_blank">Louis&nbsp;Sharrock</a> &emsp; <b>&middot;</b> &emsp;
@@ -19,7 +19,7 @@ please consider citing our paper:
 
 ```bib
 @InProceedings{Sharrock2023,
-  title = 	 {Learning Rate Free Bayesian Inference in Constrained Domains},
+  title = 	 {Learning Rate Free Sampling in Constrained Domains},
   author =       {Sharrock, Louis and Mackey, Lester and Nemeth, Christopher},
   booktitle = 	 {Proceedings of The 37th Conference on Neural Information Processing Systems},
   year =         {2023},
